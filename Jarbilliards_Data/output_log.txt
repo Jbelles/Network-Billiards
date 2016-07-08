@@ -1,0 +1,182 @@
+Initialize engine version: 5.3.2f1 (e87ab445ead0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 660M    (ID=0xfd4)
+    Vendor:   NVIDIA
+    VRAM:     1990 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\JGBelles\Desktop\Billiards\Jarbilliards_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\JGBelles\Desktop\Billiards\Jarbilliards_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\JGBelles\Desktop\Billiards\Jarbilliards_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\JGBelles\Desktop\Billiards\Jarbilliards_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\JGBelles\Desktop\Billiards\Jarbilliards_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\JGBelles\Desktop\Billiards\Jarbilliards_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\JGBelles\Desktop\Billiards\Jarbilliards_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\JGBelles\Desktop\Billiards\Jarbilliards_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.638 seconds
+Platform assembly: C:\Users\JGBelles\Desktop\Billiards\Jarbilliards_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\JGBelles\Desktop\Billiards\Jarbilliards_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Initialize engine version: 5.3.2f1 (e87ab445ead0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 660M    (ID=0xfd4)
+    Vendor:   NVIDIA
+    VRAM:     1990 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\JGBelles\Desktop\Billiards\Jarbilliards_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\JGBelles\Desktop\Billiards\Jarbilliards_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\JGBelles\Desktop\Billiards\Jarbilliards_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\JGBelles\Desktop\Billiards\Jarbilliards_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\JGBelles\Desktop\Billiards\Jarbilliards_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\JGBelles\Desktop\Billiards\Jarbilliards_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\JGBelles\Desktop\Billiards\Jarbilliards_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\JGBelles\Desktop\Billiards\Jarbilliards_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.193 seconds
+Platform assembly: C:\Users\JGBelles\Desktop\Billiards\Jarbilliards_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\JGBelles\Desktop\Billiards\Jarbilliards_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+UnloadTime: 1.371703 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 16014 -> priority: 1 
+  Thread -> id: 14754 -> priority: 1 
+<RI> Initialized touch support.
+UnloadTime: 1.412756 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 16a30 -> priority: 1 
+  Thread -> id: 16a58 -> priority: 1 
+Null
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+authority to player 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Null
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+ball shot
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+hostId: -1 connectionId: 0 isReady: True channel count: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+hostId: -1 connectionId: 0 isReady: True channel count: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+remove authority from player 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+ball shot
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Null
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Null
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+remove authority from player 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+HandleTransform netId:3 is not for a valid player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+HandleTransform netId:3 is not for a valid player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+HandleTransform netId:3 is not for a valid player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+ball shot
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+hostId: -1 connectionId: 0 isReady: True channel count: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+hostId: -1 connectionId: 0 isReady: True channel count: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+remove authority from player 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+ball shot
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Null
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Null
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+remove authority from player 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+HandleTransform netId:3 is not for a valid player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+HandleTransform netId:3 is not for a valid player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+HandleTransform netId:3 is not for a valid player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+HandleTransform netId:3 is not for a valid player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Log: connection {1} has been disconnected by timeout; address {::ffff:127.0.0.1:63817}
+ball shot
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+hostId: -1 connectionId: 0 isReady: True channel count: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+hostId: -1 connectionId: 0 isReady: True channel count: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+remove authority from player 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at TestPlayerController.CmdAssignPlayerTwoAuthority () [0x00000] in <filename unknown>:0 
+  at TestPlayerController.CallCmdAssignPlayerTwoAuthority () [0x00000] in <filename unknown>:0 
+  at TestPlayerController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
