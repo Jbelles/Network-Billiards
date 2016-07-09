@@ -45,14 +45,15 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\BallSleepThreshold.cs" />
-     <Compile Include="Assets\BreakBall.cs" />
-     <Compile Include="Assets\NetworkManager.cs" />
-     <Compile Include="Assets\NetworkRacker.cs" />
-     <Compile Include="Assets\NetworkRigidbody.cs" />
-     <Compile Include="Assets\Racker.cs" />
-     <Compile Include="Assets\TestPlayerController.cs" />
-     <Compile Include="Assets\UniqueName.cs" />
+     <Compile Include="Assets\Scripts\BallSleepThreshold.cs" />
+     <Compile Include="Assets\Scripts\BreakBall.cs" />
+     <Compile Include="Assets\Scripts\CameraMovement.cs" />
+     <Compile Include="Assets\Scripts\NetworkManager.cs" />
+     <Compile Include="Assets\Scripts\NetworkRacker.cs" />
+     <Compile Include="Assets\Scripts\NetworkRigidbody.cs" />
+     <Compile Include="Assets\Scripts\Racker.cs" />
+     <Compile Include="Assets\Scripts\TestPlayerController.cs" />
+     <Compile Include="Assets\Scripts\UniqueName.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

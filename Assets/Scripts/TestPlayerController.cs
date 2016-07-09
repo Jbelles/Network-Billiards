@@ -47,34 +47,14 @@ public class TestPlayerController : NetworkBehaviour {
 	    		{
 	    			print("remove authority from player 1");
 	    			CmdAssignPlayerTwoAuthority();
-	    			//ShotFired = false;
-	    		//	CmdRemoveAuthority(GameObject.Find("Player 1").GetComponent<NetworkIdentity>().netId);
-	    		//	CmdAssignAuthority(GameObject.Find("Player 0").GetComponent<NetworkIdentity>().netId);
 	    		}
 	    		else
 	    		{
 	    			print("remove authority from player 2");
 	    			CmdAssignPlayerOneAuthority();
-	    			//ShotFired = false;
-	    			//CmdRemoveAuthority(GameObject.Find("Player 0").GetComponent<NetworkIdentity>().netId);
-	    			//CmdAssignAuthority(GameObject.Find("Player 1").GetComponent<NetworkIdentity>().netId);
 	    		}
-	    		//RemoveOwnership(this.GetComponent<NetworkIdentity>().connectionToClient);
+
       		}
-
-                    //}
-
-    	//if(Input.GetMouseButtonDown(1)){
-    		
-    	//}
-
-     /*   if(Input.GetAxis("Mouse X") != 0 || Input.GetAxis("Mouse Y") != 0){
-	        var x = Input.GetAxis("Mouse X");
-	        var z = Input.GetAxis("Mouse Y");
-	        //print(x + " " + z);
-	        CmdMovePlayers(x, z);
-    	}*/
-
     }
 
     [Command]
@@ -94,6 +74,8 @@ public class TestPlayerController : NetworkBehaviour {
           transform.GetComponent<Rigidbody>().AddForce(direction*2000);
           GameObject.Find("GhostBall").GetComponent<MeshRenderer>().enabled = false;
           GetComponent<LineRenderer>().enabled = false;
+          //GameObject.Find("GhostBall").GetComponent<MeshRenderer>().enabled = false;
+          //GetComponent<LineRenderer>().enabled = false;
     }
 
     [Command]

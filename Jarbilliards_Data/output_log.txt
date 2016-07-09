@@ -14,7 +14,7 @@ Platform assembly: C:\Users\JGBelles\Desktop\Billiards\Jarbilliards_Data\Managed
 Loading C:\Users\JGBelles\Desktop\Billiards\Jarbilliards_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
 Platform assembly: C:\Users\JGBelles\Desktop\Billiards\Jarbilliards_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
 Loading C:\Users\JGBelles\Desktop\Billiards\Jarbilliards_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-- Completed reload, in  0.638 seconds
+- Completed reload, in  0.063 seconds
 Platform assembly: C:\Users\JGBelles\Desktop\Billiards\Jarbilliards_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\JGBelles\Desktop\Billiards\Jarbilliards_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
@@ -37,21 +37,21 @@ Platform assembly: C:\Users\JGBelles\Desktop\Billiards\Jarbilliards_Data\Managed
 Loading C:\Users\JGBelles\Desktop\Billiards\Jarbilliards_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
 Platform assembly: C:\Users\JGBelles\Desktop\Billiards\Jarbilliards_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
 Loading C:\Users\JGBelles\Desktop\Billiards\Jarbilliards_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-- Completed reload, in  0.193 seconds
+- Completed reload, in  0.054 seconds
 Platform assembly: C:\Users\JGBelles\Desktop\Billiards\Jarbilliards_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\JGBelles\Desktop\Billiards\Jarbilliards_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
-UnloadTime: 1.371703 ms
+UnloadTime: 0.682728 ms
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: 16014 -> priority: 1 
-  Thread -> id: 14754 -> priority: 1 
+  Thread -> id: 1981c -> priority: 1 
+  Thread -> id: 19e38 -> priority: 1 
 <RI> Initialized touch support.
-UnloadTime: 1.412756 ms
+UnloadTime: 0.761264 ms
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: 16a30 -> priority: 1 
-  Thread -> id: 16a58 -> priority: 1 
+  Thread -> id: 17ac0 -> priority: 1 
+  Thread -> id: 18384 -> priority: 1 
 Null
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
@@ -104,7 +104,27 @@ HandleTransform netId:3 is not for a valid player
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
 
-HandleTransform netId:3 is not for a valid player
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.641675 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 277.
+Total: 0.216866 ms (FindLiveObjects: 0.012940 ms CreateObjectMapping: 0.008924 ms MarkObjects: 0.191431 ms  DeleteObjects: 0.003569 ms)
+
+UnloadTime: 0.677373 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 277.
+Total: 0.174921 ms (FindLiveObjects: 0.012494 ms CreateObjectMapping: 0.009370 ms MarkObjects: 0.149486 ms  DeleteObjects: 0.003123 ms)
+
+Null
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+authority to player 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Null
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
 
@@ -140,23 +160,14 @@ remove authority from player 2
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
 
-HandleTransform netId:3 is not for a valid player
+HandleTransform netId:24 is not for a valid player
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
 
-HandleTransform netId:3 is not for a valid player
+HandleTransform netId:24 is not for a valid player
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
 
-HandleTransform netId:3 is not for a valid player
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
-
-HandleTransform netId:3 is not for a valid player
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
-
-Log: connection {1} has been disconnected by timeout; address {::ffff:127.0.0.1:63817}
 ball shot
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
@@ -173,10 +184,10 @@ remove authority from player 1
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at TestPlayerController.CmdAssignPlayerTwoAuthority () [0x00000] in <filename unknown>:0 
-  at TestPlayerController.CallCmdAssignPlayerTwoAuthority () [0x00000] in <filename unknown>:0 
-  at TestPlayerController.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.604192 ms
 
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 277.
+Total: 0.287370 ms (FindLiveObjects: 0.015171 ms CreateObjectMapping: 0.012048 ms MarkObjects: 0.254349 ms  DeleteObjects: 0.005800 ms)
+
+Log: connection {1} has been disconnected by timeout; address {::ffff:127.0.0.1:7777}
